@@ -1,10 +1,10 @@
-# 🧪 Petstore API Automation
+## 🧪 Petstore API Automation
 
 Este projeto realiza a **automação de testes da API Swagger Petstore** utilizando **Java**, **Rest Assured** e **JUnit 5**.
 (Pretendo melhorar os relatorios com **Allure Reports** depois..)
 ---
 
-## 📌 Visão Geral
+### 📌 Visão Geral
 
 Automatiza operações na Petstore API, como:
 
@@ -16,7 +16,7 @@ Automatiza operações na Petstore API, como:
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+### ⚙️ Tecnologias Utilizadas
 
 - Java 11+
 - JUnit 5
@@ -26,12 +26,12 @@ Automatiza operações na Petstore API, como:
 
 ---
 
-## ▶️ Executar um teste específico no Eclipse
+### ▶️ Executar um teste específico no Eclipse
 
 Clique com o botão direito na classe ou método de teste.
 Selecione: Run As → JUnit Test.
 
-### Requisitos
+#### Requisitos
 
 - Java 11+
 - Maven (ou Gradle)
@@ -39,7 +39,7 @@ Selecione: Run As → JUnit Test.
 
 ---
 
-## 👨‍💻 Autor
+#### 👨‍💻 Autor
 
 Wagner Jr.
 Projeto de testes automatizados de API REST.

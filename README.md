@@ -2,6 +2,7 @@
 
 Este projeto realiza a **automação de testes da API Swagger Petstore** utilizando **Java**, **Rest Assured** e **JUnit 5**.
 (Pretendo melhorar os relatorios com **Allure Reports** depois..)
+
 ---
 
 ### 📌 Visão Geral
